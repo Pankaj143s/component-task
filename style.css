@@ -37,7 +37,7 @@
   align-items: center;
 }
 .sidebar .logo-details i {
-  font-size: 30px;
+  font-size: 2rem;
   color: #fff;
   height: 50px;
   min-width: 78px;
@@ -45,7 +45,7 @@
   line-height: 50px;
 }
 .sidebar .logo-details .logo_name {
-  font-size: 22px;
+  font-size: 1.5rem;
   color: #fff;
   font-weight: 600;
   transition: 0.3s ease;
@@ -89,7 +89,7 @@
   text-align: center;
   line-height: 50px;
   color: #fff;
-  font-size: 20px;
+  font-size: 1.25rem;
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -105,7 +105,7 @@
   text-decoration: none;
 }
 .sidebar .nav-links li a .link_name {
-  font-size: 18px;
+  font-size: 1.1rem;
   font-weight: 400;
   color: #fff;
   transition: all 0.4s ease;
@@ -125,7 +125,7 @@
 }
 .sidebar .nav-links li .sub-menu a {
   color: #fff;
-  font-size: 15px;
+  font-size: 1rem;
   padding: 5px 0;
   white-space: nowrap;
   opacity: 0.6;
@@ -156,7 +156,7 @@
   display: none;
 }
 .sidebar.close .nav-links li .sub-menu .link_name {
-  font-size: 18px;
+  font-size: 1.2rem;
   opacity: 1;
   display: block;
 }
@@ -215,7 +215,7 @@
 .sidebar .profile-details .profile_name,
 .sidebar .profile-details .job {
   color: #fff;
-  font-size: 18px;
+  font-size: 1.2rem;
   font-weight: 500;
   white-space: nowrap;
 }
@@ -225,7 +225,7 @@
   display: none;
 }
 .sidebar .profile-details .job {
-  font-size: 12px;
+  font-size: 1rem;
 }
 .home-section {
   position: relative;
@@ -246,14 +246,14 @@
 .home-section .home-content .bx-menu,
 .home-section .home-content .text {
   color: #000000;
-  font-size: 35px;
+  font-size: 2.2rem;
 }
 .home-section .home-content .bx-menu {
   margin: 0 15px;
   cursor: pointer;
 }
 .home-section .home-content .text {
-  font-size: 26px;
+  font-size: 1.6rem;
   font-weight: 600;
 }
 
@@ -272,7 +272,7 @@
   padding: 30px;
 }
 .cards h2.header {
-  font-size: 40px;
+  font-size: 2.5rem;
   margin: 0 0 30px 0;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -292,7 +292,7 @@
   transition: all 0.3s ease;
 }
 .content .fab {
-  font-size: 70px;
+  font-size: 4.3;
   margin: 16px 0;
 }
 .content > * {
@@ -327,13 +327,13 @@
   color: #ffbb00;
 }
 .content h2 {
-  font-size: 30px;
+  font-size: 1.8rem;
   margin: 16px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 .content p {
-  font-size: 17px;
+  font-size: 1rem;
   font-family: "Poppins", sans-serif;
 }
 .content a {
@@ -365,7 +365,7 @@
   padding: 30px;
 }
 .cards h2.header {
-  font-size: 40px;
+  font-size: 2.5rem;
   margin: 0 0 30px 0;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -385,7 +385,7 @@
   transition: all 0.3s ease;
 }
 .content .fab {
-  font-size: 70px;
+  font-size: 4.3rem;
   margin: 16px 0;
 }
 .content * {
@@ -420,13 +420,13 @@
   color: #ffbb00;
 }
 .content h2 {
-  font-size: 30px;
+  font-size: 2rem;
   margin: 16px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 .content p {
-  font-size: 17px;
+  font-size: 1rem;
   font-family: "Poppins", sans-serif;
 }
 .content a {
@@ -487,7 +487,7 @@
 .card-content h3 {
   font-size: 2rem;
   margin-bottom: 8px;
-  color: #ffffff;
+  color: #3b3b3b;
 }
 
 .card-content p {
@@ -596,18 +596,18 @@
 
 .card-title {
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 3rem;
   font-weight: 500;
 }
 
 .card-sub-title {
   text-transform: capitalize;
-  font-size: 14px;
+  font-size: 0.8rem;
   font-weight: 300;
 }
 
 .card-info {
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 25px;
   margin: 40px 0;
   font-weight: 400;
