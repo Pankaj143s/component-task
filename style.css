@@ -471,7 +471,7 @@
 .card img {
   width: 100%;
   height: auto;
-  filter: grayscale(100%);
+  filter: grayscale(20%);
   transition: filter 0.5s ease-in-out, transform 0.5s ease-in-out;
 }
 
@@ -596,13 +596,13 @@
 
 .card-title {
   text-transform: uppercase;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
 }
 
 .card-sub-title {
   text-transform: capitalize;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 
